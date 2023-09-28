@@ -1,6 +1,5 @@
 <h1 align="center">yonmo</h1>
 
-# 💫 About Me:
 I am an independant IoT and Novel Concept Security Researcher.
 
 - 🔭 I’m currently working to improve **Saturn & Rigel (DNS MITM, IoT Killchains)**
